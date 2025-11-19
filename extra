@@ -227,27 +227,20 @@
     </style>
 </head>
 <body>
-    <button class="download-btn" onclick="window.print()">📥 Download PDF</button>
-
-    <div class="instructions">
-        <h3>📝 ATS-Friendly Resume Template for Site Reliability Engineer</h3>
-        <p><strong>Instructions:</strong> Replace the placeholder text with your own information. This template is optimized for Applicant Tracking Systems (ATS).</p>
-        <p><strong>Tips:</strong> Use clear job titles, include relevant keywords, quantify achievements, and keep formatting simple.</p>
-    </div>
 
     <div class="resume">
         <div class="header">
-            <h1>YOUR NAME</h1>
+            <h1>Abinash Dash</h1>
             <div class="contact">
-                Location: City, State, Country | Phone: +XX XXXXX XXXXX | Email: your.email@example.com<br>
-                LinkedIn: linkedin.com/in/yourprofile | GitHub: github.com/yourusername | Portfolio: yourportfolio.com
+                Location: Bangalore, KA | Phone: +91 98779 49761 | Email: your.email@example.com<br>
+                | Portfolio: yourportfolio.com
             </div>
         </div>
 
         <div class="section">
             <div class="section-title">PROFESSIONAL SUMMARY</div>
             <div class="content">
-                Results-driven <strong>Site Reliability Engineer</strong> with X+ years of experience building and maintaining highly available, scalable, and reliable infrastructure. Expert in <strong>monitoring, incident response, automation, and performance optimization</strong>. Proven track record in reducing system downtime by X%, improving deployment reliability, and implementing <strong>SRE best practices</strong> including SLO/SLI frameworks, capacity planning, and chaos engineering. Proficient in <strong>Kubernetes, Terraform, Prometheus, Grafana, Python, Go</strong>, and cloud platforms (<strong>AWS, GCP, Azure</strong>). Passionate about building resilient systems and fostering a culture of reliability.
+                Results-driven <strong>Site Reliability Engineer</strong> with 4.3+ years of experience building and maintaining highly available, scalable, and reliable infrastructure. Expert in <strong>monitoring, incident response, automation, and performance optimization</strong>. Proven track record in reducing system downtime by X%, improving deployment reliability, and implementing <strong>SRE best practices</strong> including SLO/SLI frameworks, capacity planning, and chaos engineering. Proficient in <strong>Kubernetes, Prometheus, Grafana, Python</strong>, and cloud platforms (<strong>AWS</strong>). Passionate about building resilient systems and fostering a culture of reliability.
             </div>
         </div>
 
@@ -256,51 +249,47 @@
             <div class="skills-section">
                 <div class="skill-category">
                     <span class="skill-label">Cloud Platforms:</span>
-                    <span class="skill-items">AWS (EC2, S3, RDS, Lambda, CloudWatch), Google Cloud Platform (GCE, GKE, Cloud Monitoring), Azure (VMs, AKS, Monitor)</span>
+                    <span class="skill-items">AWS (EC2, S3, RDS, Lambda, CloudWatch, VPC, IAM)</span>
                 </div>
                 <div class="skill-category">
                     <span class="skill-label">Container & Orchestration:</span>
-                    <span class="skill-items">Docker, Kubernetes, Helm, Docker Swarm, ECS, EKS, GKE, AKS</span>
-                </div>
-                <div class="skill-category">
-                    <span class="skill-label">Infrastructure as Code:</span>
-                    <span class="skill-items">Terraform, CloudFormation, Ansible, Pulumi, Chef, Puppet</span>
+                    <span class="skill-items">Docker, Kubernetes, Helm</span>
                 </div>
                 <div class="skill-category">
                     <span class="skill-label">CI/CD & Automation:</span>
-                    <span class="skill-items">Jenkins, GitLab CI, GitHub Actions, CircleCI, ArgoCD, Spinnaker, Tekton</span>
+                    <span class="skill-items">Jenkins, GitLab CI, GitHub Actions, ArgoCD</span>
                 </div>
                 <div class="skill-category">
                     <span class="skill-label">Monitoring & Observability:</span>
-                    <span class="skill-items">Prometheus, Grafana, Datadog, New Relic, ELK Stack (Elasticsearch, Logstash, Kibana), Splunk, Jaeger, OpenTelemetry</span>
+                    <span class="skill-items">Prometheus, Grafana, ELK Stack (Elasticsearch, Logstash, Kibana)</span>
                 </div>
                 <div class="skill-category">
                     <span class="skill-label">Incident Management:</span>
-                    <span class="skill-items">PagerDuty, Opsgenie, VictorOps, Incident Response, Post-Mortem Analysis, Root Cause Analysis</span>
+                    <span class="skill-items">Incident Response, Root Cause Analysis</span>
                 </div>
                 <div class="skill-category">
                     <span class="skill-label">Programming & Scripting:</span>
-                    <span class="skill-items">Python, Go, Bash, Shell Scripting, JavaScript, Ruby</span>
+                    <span class="skill-items">Python, Basic Bash, Shell Scripting</span>
                 </div>
                 <div class="skill-category">
                     <span class="skill-label">Databases & Storage:</span>
-                    <span class="skill-items">PostgreSQL, MySQL, MongoDB, Redis, Cassandra, DynamoDB, S3, GCS</span>
+                    <span class="skill-items">MySQL, MongoDB, DynamoDB, S3, RDS</span>
                 </div>
                 <div class="skill-category">
                     <span class="skill-label">Web & Proxy Servers:</span>
-                    <span class="skill-items">Nginx, Apache, HAProxy, Envoy, Traefik</span>
+                    <span class="skill-items">Nginx, Apache</span>
                 </div>
                 <div class="skill-category">
                     <span class="skill-label">Version Control & Collaboration:</span>
-                    <span class="skill-items">Git, GitHub, GitLab, Bitbucket, Confluence, Jira</span>
+                    <span class="skill-items">Git, GitHub, Confluence, Jira</span>
                 </div>
                 <div class="skill-category">
-                    <span class="skill-label">Service Mesh & Networking:</span>
-                    <span class="skill-items">Istio, Linkerd, Consul, Service Discovery, Load Balancing, DNS</span>
+                    <span class="skill-label">Networking:</span>
+                    <span class="skill-items">Load Balancing, DNS</span>
                 </div>
                 <div class="skill-category">
                     <span class="skill-label">Security & Compliance:</span>
-                    <span class="skill-items">Vault, SOPS, SSL/TLS Management, IAM, Security Scanning, Compliance Auditing</span>
+                    <span class="skill-items">SSL/TLS Management, IAM</span>
                 </div>
             </div>
         </div>
@@ -309,87 +298,76 @@
             <div class="section-title">PROFESSIONAL EXPERIENCE</div>
             
             <div class="job-header">
-                <span class="job-title">Senior Site Reliability Engineer</span>
-                <span class="job-location">City, State/Country</span>
-            </div>
-            <div class="job-company">Company Name | Month Year — Present</div>
-            <ul class="bullet-list">
-                <li><strong>Improved system reliability</strong> by implementing comprehensive SLO/SLI frameworks, achieving 99.99% uptime across critical services and reducing MTTR by 45%.</li>
-                <li><strong>Designed and maintained</strong> highly available Kubernetes clusters serving 500K+ requests per minute, implementing auto-scaling, rolling updates, and disaster recovery procedures.</li>
-                <li><strong>Built automated incident response systems</strong> using Python and PagerDuty, reducing mean time to detection (MTTD) by 60% and enabling faster incident resolution.</li>
-                <li><strong>Implemented comprehensive observability stack</strong> with Prometheus, Grafana, and ELK, providing real-time metrics, logging, and tracing for 200+ microservices.</li>
-                <li><strong>Led capacity planning initiatives</strong> resulting in 30% cost optimization while maintaining performance SLAs through right-sizing and resource optimization.</li>
-                <li><strong>Developed infrastructure as code</strong> using Terraform and Ansible, managing 1000+ cloud resources across multiple environments with version control and automated testing.</li>
-                <li><strong>Established chaos engineering practices</strong> using tools like Chaos Monkey and Gremlin to proactively identify and fix reliability issues before impacting production.</li>
-                <li><strong>Created automated deployment pipelines</strong> with GitLab CI and ArgoCD, enabling 50+ daily deployments with zero-downtime releases and automated rollback capabilities.</li>
-                <li><strong>Conducted post-mortem analyses</strong> for critical incidents, identifying root causes and implementing preventive measures that reduced recurring incidents by 70%.</li>
-                <li><strong>Mentored junior SREs</strong> and conducted knowledge-sharing sessions on reliability best practices, on-call procedures, and incident management.</li>
-            </ul>
-
-            <div class="job-header">
                 <span class="job-title">Site Reliability Engineer</span>
-                <span class="job-location">City, State/Country</span>
+                <span class="job-location">Bangalore, KA</span>
             </div>
-            <div class="job-company">Company Name | Month Year — Month Year</div>
+            <div class="job-company">AI Tech solutions LTD | May 2025 — Oct 2025</div>
             <ul class="bullet-list">
-                <li><strong>Architected and deployed</strong> multi-region Kubernetes infrastructure on AWS, ensuring high availability and disaster recovery capabilities for mission-critical applications.</li>
-                <li><strong>Implemented automated monitoring and alerting</strong> systems using Prometheus and Grafana, reducing false positives by 80% through intelligent alert rules and thresholds.</li>
-                <li><strong>Optimized database performance</strong> by implementing connection pooling, query optimization, and read replicas, reducing latency by 50% and improving throughput.</li>
-                <li><strong>Automated infrastructure provisioning</strong> using Terraform, reducing deployment time from hours to minutes and eliminating configuration drift.</li>
-                <li><strong>Established on-call rotation</strong> and runbook documentation, improving incident response times and knowledge sharing across the SRE team.</li>
-                <li><strong>Collaborated with development teams</strong> to implement reliability improvements, including circuit breakers, retry logic, and graceful degradation patterns.</li>
-                <li><strong>Performed load testing and capacity planning</strong> to ensure systems could handle 3x traffic growth during peak periods without performance degradation.</li>
-                <li><strong>Migrated legacy applications</strong> to containerized environments, improving deployment consistency and reducing environment-specific issues by 90%.</li>
+                <li><strong>Developed and maintained CI/CD pipelines</strong> in Jenkins by integrating build, test, SonarQube scanning, Docker image creation, and Kubernetes deployment stages with webhook-based automation for seamless delivery.</li>
+                <li><strong>Containerized applications using Docker</strong> to ensure consistent, portable, and reliable deployments across development, staging, and production environments.</li>
+                <li><strong>Administered and monitored Kubernetes clusters</strong> by managing Deployments, Services, Ingress, Secrets, and ConfigMaps to support scalable and highly available application delivery.</li>
+                <li><strong>Ensured high uptime and smooth operations</strong> by implementing proactive monitoring, alerting, and observability practices across production and development environments.</li>
+                <li><strong>Implemented DevSecOps best practices</strong> by integrating Trivy and SonarQube into CI/CD pipelines to perform vulnerability scanning and enhance credential and code security.</li>
+                <li><strong>Migrated legacy applications to Kubernetes</strong> from PM2 and GitHub Actions-based deployments, enabling zero-downtime, container-driven modern release processes.</li>
+                <li><strong>Managed SSL certificates and Apache configurations</strong> to support reverse proxying, secure SSL termination, and HTTPS-enabled communication across services.</li>
+                <li><strong>Established centralized monitoring and alerting</strong> using Prometheus and Grafana to provide real-time performance insights and actionable system visibility.</li>
+                <li><strong>Optimized Kubernetes resource usage</strong> by tuning CPU/memory requests, limits, and implementing Horizontal Pod Autoscalers for improved efficiency and performance.</li>
+                <li><strong>Automated configuration management</strong> through shell scripts and YAML templates, ensuring consistent, version-controlled infrastructure across all environments.</li>
+                <li><strong>Enhanced CI/CD efficiency</strong> by introducing parallel build stages, caching mechanisms, and optimized Jenkins node configurations to handle high-load builds effectively.</li>
+                <li><strong>Collaborated with development teams</strong> to refactor applications, modernize deployment workflows, streamline release cycles, and harmonize legacy codebases.</li>
+                <li><strong>Conducted root-cause analysis (RCA)</strong> of recurring production issues and implemented preventive actions to minimize downtime and improve overall reliability.</li>
+                <li><strong>Documented deployment standards and operational workflows</strong> to support smooth onboarding, operational continuity, and consistent implementation of best practices across teams.</li>
             </ul>
 
             <div class="job-header">
-                <span class="job-title">DevOps Engineer / Junior SRE</span>
-                <span class="job-location">City, State/Country</span>
+                <span class="job-title">Cloud and Devops Engineer</span>
+                <span class="job-location">Bangalore, KA</span>
             </div>
-            <div class="job-company">Company Name | Month Year — Month Year</div>
+            <div class="job-company">SANVAN Software | Month Year — Month Year</div>
             <ul class="bullet-list">
-                <li><strong>Maintained and monitored</strong> production infrastructure supporting 1M+ daily active users, ensuring 99.9% availability through proactive monitoring and maintenance.</li>
-                <li><strong>Developed automation scripts</strong> in Python and Bash to streamline operational tasks, saving 20+ hours per week in manual work.</li>
-                <li><strong>Implemented CI/CD pipelines</strong> using Jenkins and Docker, reducing deployment time by 75% and increasing deployment frequency.</li>
-                <li><strong>Configured and managed</strong> monitoring tools including Datadog and CloudWatch, providing visibility into system health and performance metrics.</li>
-                <li><strong>Participated in on-call rotation</strong>, responding to incidents and conducting troubleshooting to minimize downtime and impact on users.</li>
-                <li><strong>Assisted in cloud migration</strong> from on-premises to AWS, ensuring seamless transition and improved scalability.</li>
+                <li><strong>Created automated deployment pipelines</strong> using GitLab CI and ArgoCD, enabling 50+ daily deployments with zero-downtime releases and automated rollback capabilities.</li>
+                <li><strong>Assisted in designing and deploying AWS cloud infrastructure</strong> including EC2, S3, IAM, and VPC components to build secure and scalable cloud environments.</li>
+                <li><strong>Configured and monitored AWS workloads</strong> using CloudWatch, CloudTrail, and other observability tools to identify performance bottlenecks, optimize resource usage, and respond to security alerts.</li>
+                <li><strong>Containerized applications with Docker</strong> to ensure consistent builds and deployments across development, staging, and production environments.</li>
+                <li><strong>Deployed and managed applications on Kubernetes clusters</strong> ensuring scalability, high availability, and seamless rolling updates.</li>
+                <li><strong>Integrated container registries</strong> such as Docker Hub with Jenkins pipelines to streamline image storage and version-controlled deployments.</li>
+                <li><strong>Collaborated with development teams</strong> to implement DevOps best practices, drastically reducing manual steps and improving release velocity.</li>
+                <li><strong>Built and maintained bare-metal Kubernetes clusters</strong> using kubeadm, configuring container runtimes, network overlays (Calico), Ingress controllers, and multi-node cluster HA setups.</li>
+                <li><strong>Implemented Infrastructure as Code</strong> using Terraform and Ansible to automate provisioning, configuration, and lifecycle management of servers, cloud resources, and Kubernetes components.</li>
+                <li><strong>Configured and maintained CI/CD pipelines</strong> in Jenkins and GitLab CI, integrating automated testing, security scanning (Trivy/SonarQube), and multi-environment deployments.</li>
+                <li><strong>Set up centralized monitoring and alerting</strong> using Prometheus, Grafana, Alertmanager, and Loki to provide deep observability into application and cluster health.</li>
+                <li><strong>Optimized Kubernetes workloads</strong> by tuning resource requests/limits, configuring Horizontal Pod Autoscalers, and implementing efficient node-level resource planning.</li>
+                <li><strong>Managed NGINX/Apache reverse proxies</strong> with SSL/TLS certificates, enabling secure HTTPS communication and certificate automation using Certbot.</li>
+                <li><strong>Developed automation scripts</strong> in Bash and Python to streamline deployments, environment setups, log collections, and routine operational tasks.</li>
+                <li><strong>Implemented DevSecOps practices</strong> by integrating vulnerability scans, secret scanning, and compliance checks into CI/CD workflows.</li>
+                <li><strong>Collaborated across cross-functional teams</strong> to modernize legacy applications, standardize deployment workflows, and migrate workloads from VMs and PM2 to containerized Kubernetes-based architectures.</li>
+                <li><strong>Documented SOPs, deployment procedures, and cluster maintenance guides</strong> to ensure smooth onboarding and operational continuity.</li>
             </ul>
-        </div>
+
 
         <div class="section">
             <div class="section-title">KEY ACHIEVEMENTS</div>
             <ul class="bullet-list">
-                <li>Reduced system downtime from 2 hours/month to less than 15 minutes/month, achieving 99.99% uptime SLO.</li>
-                <li>Led reliability improvements that decreased P95 latency by 60% and increased throughput by 3x.</li>
-                <li>Automated 85% of operational tasks through custom tooling and infrastructure as code, enabling team to focus on strategic initiatives.</li>
-                <li>Saved $500K+ annually through cost optimization initiatives including right-sizing, reserved instances, and resource cleanup automation.</li>
-                <li>Successfully managed Black Friday traffic surge (10x normal load) with zero downtime and maintained sub-second response times.</li>
-            </ul>
-        </div>
-
-        <div class="section">
-            <div class="section-title">CERTIFICATIONS</div>
-            <ul class="certifications-list">
-                <li>AWS Certified Solutions Architect – Professional</li>
-                <li>Certified Kubernetes Administrator (CKA)</li>
-                <li>Certified Kubernetes Application Developer (CKAD)</li>
-                <li>Google Cloud Professional Cloud Architect</li>
-                <li>HashiCorp Certified: Terraform Associate</li>
-                <li>Site Reliability Engineering Certificate (Google/Coursera)</li>
+                <li>Reduced deployment time by 40% by automating end-to-end Jenkins pipelines.</li>
+                <li>Optimized performance to handle 5,000+ requests/sec using 4 vCPUs and 100 GB storage with heavy workloads deployed through Kubernetes.</li>
+                <li>Improved infrastructure uptime to maximum with zero failures.</li>
+                <li>Reduced onboarding time by 70% by creating detailed deployment documentation, SOPs, and infrastructure runbooks.</li>
+                <li>Cut build times by 50% by introducing caching, parallelization, and optimized Jenkins node configurations.</li>
+                <li>Enhanced security posture by integrating Trivy, SonarQube, and secret-scanning tools into CI/CD pipelines, preventing high-severity vulnerabilities from reaching production.</li>
+                <li>Accelerated release frequency by 3× by introducing CI/CD best practices, containerizing applications, and standardizing deployment pipelines.</li>
             </ul>
         </div>
 
         <div class="section">
             <div class="section-title">EDUCATION</div>
             <div class="education-row">
-                <span>Month Year — Month Year</span>
-                <span><strong>Bachelor of Technology (B.Tech) / Bachelor of Science (B.S.) in Computer Science</strong></span>
-                <span>City, Country</span>
+                <span>Aug 2012 — Aug 2016</span>
+                <span><strong>Bachelor of Technology (B.Tech) in Mechanical Engineering</strong></span>
+                <span>Bhubaneswar, Odisha</span>
             </div>
             <div class="education-row">
                 <span></span>
-                <span>University Name</span>
+                <span>Gandhi Engineering College</span>
                 <span></span>
             </div>
         </div>
