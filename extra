@@ -249,7 +249,7 @@
             <div class="skills-section">
                 <div class="skill-category">
                     <span class="skill-label">Cloud Platforms:</span>
-                    <span class="skill-items">AWS (EC2, S3, RDS, Lambda, CloudWatch, VPC, IAM)</span>
+                    <span class="skill-items">AWS (EC2, S3, RDS, Lambda, CloudWatch, VPC, IAM etc.)</span>
                 </div>
                 <div class="skill-category">
                     <span class="skill-label">Container & Orchestration:</span>
@@ -257,7 +257,7 @@
                 </div>
                 <div class="skill-category">
                     <span class="skill-label">CI/CD & Automation:</span>
-                    <span class="skill-items">Jenkins, GitLab CI, GitHub Actions, ArgoCD</span>
+                    <span class="skill-items">Jenkins, GitHub Actions, ArgoCD</span>
                 </div>
                 <div class="skill-category">
                     <span class="skill-label">Monitoring & Observability:</span>
@@ -269,7 +269,7 @@
                 </div>
                 <div class="skill-category">
                     <span class="skill-label">Programming & Scripting:</span>
-                    <span class="skill-items">Python, Basic Bash, Shell Scripting</span>
+                    <span class="skill-items">Basic Python, Bash, Shell Scripting</span>
                 </div>
                 <div class="skill-category">
                     <span class="skill-label">Databases & Storage:</span>
@@ -285,7 +285,7 @@
                 </div>
                 <div class="skill-category">
                     <span class="skill-label">Networking:</span>
-                    <span class="skill-items">Load Balancing, DNS</span>
+                    <span class="skill-items">Load Balancing, DNS, </span>
                 </div>
                 <div class="skill-category">
                     <span class="skill-label">Security & Compliance:</span>
@@ -315,12 +315,12 @@
                 <li><strong>Automated configuration management</strong> through shell scripts and YAML templates, ensuring consistent, version-controlled infrastructure across all environments.</li>
                 <li><strong>Enhanced CI/CD efficiency</strong> by introducing parallel build stages, caching mechanisms, and optimized Jenkins node configurations to handle high-load builds effectively.</li>
                 <li><strong>Collaborated with development teams</strong> to refactor applications, modernize deployment workflows, streamline release cycles, and harmonize legacy codebases.</li>
-                <li><strong>Conducted root-cause analysis (RCA)</strong> of recurring production issues and implemented preventive actions to minimize downtime and improve overall reliability.</li>
+                <li><strong>Conducted root-cause analysis </strong> of recurring production issues and implemented preventive actions to minimize downtime and improve overall reliability.</li>
                 <li><strong>Documented deployment standards and operational workflows</strong> to support smooth onboarding, operational continuity, and consistent implementation of best practices across teams.</li>
             </ul>
 
             <div class="job-header">
-                <span class="job-title">Cloud and Devops Engineer</span>
+                <span class="job-title">Cloud Support and Application Support Engineer </span>
                 <span class="job-location">Bangalore, KA</span>
             </div>
             <div class="job-company">SANVAN Software | Month Year — Month Year</div>
