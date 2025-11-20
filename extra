@@ -376,23 +376,30 @@
             <div class="section-title">NOTABLE PROJECTS</div>
             
             <div class="project-item">
-                <div class="project-name">Multi-Region Disaster Recovery System</div>
+                <div class="project-name">The Freelance Website</div>
                 <div class="project-description">
-                    Designed and implemented automated disaster recovery solution across 3 AWS regions, achieving RPO of 15 minutes and RTO of 30 minutes. Includes automated failover, data replication, and regular disaster recovery drills.
+                    Seamless crypto payments, secure contracts, AI-powered security, and personalized tools — all in one place. Managed development server environments for both frontend and backend deployments via Kubernetes, Optimized performance to handle 5,000+ requests/sec using 4 vCPUs and 100 GB storage, Ensured scalability and high availability for real-time workloads.
                 </div>
             </div>
 
             <div class="project-item">
-                <div class="project-name">Observability Platform</div>
+                <div class="project-name">Omodore Platform</div>
                 <div class="project-description">
-                    Built comprehensive observability platform using Prometheus, Grafana, and ELK stack, providing unified monitoring, logging, and tracing for 200+ microservices. Reduced troubleshooting time by 70%.
+                    the AI-powered, no-code SaaS platform that puts automation in your hands. Build intelligent AI Agents in minutes to handle HR, finance, logistics, marketing, and more — all without writing a single line of code. Managed and deployed multiple AI-driven applications (frontend, backend, and LLaMA/OpenAI agent systems) on a single Kubernetes cluster. Set up monitoring and alerting for resource utilization. Automated deployments and monitoring for continuous uptime.
                 </div>
             </div>
 
             <div class="project-item">
-                <div class="project-name">Cost Optimization Framework</div>
+                <div class="project-name">Galambo</div>
                 <div class="project-description">
-                    Created automated cost optimization framework that continuously analyzes cloud resource usage and provides recommendations. Achieved 40% reduction in cloud spend while maintaining performance.
+                    AI-powered image search platform with containerized backend and frontend services deployed on Kubernetes. Achieved high availability and reduced deployment complexity through automation.
+                </div>
+            </div>
+
+            <div class="project-item">
+                <div class="project-name">Prepaid Card Processing System (PCPS)</div>
+                <div class="project-description">
+                    This is purely related to the banking domain in A-Z prepaid card relations. In prepaid card, the project deals for Traveling card, Gift card, Student card, Salary card etc. CPS holds the clients all over the world, especially in continents like Australia, Asia and America. Our Team is a L2 support team who involves in resolving defects, Query tuning, Task completion, Report Creation, etc. We support PCPS in the way of fixing defects/issues raised by various teams involved in PCPS activities. The issues we carry over is totally relates to defects due to SQL. We not only involve in fixing the issue but will support till the issue closes. Our Roles and responsibilities are as follows.
                 </div>
             </div>
         </div>
