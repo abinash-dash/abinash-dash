@@ -233,14 +233,13 @@
             <h1>Abinash Dash</h1>
             <div class="contact">
                 Location: Bangalore, KA | Phone: +91 98779 49761 | Email: your.email@example.com<br>
-                | Portfolio: yourportfolio.com
             </div>
         </div>
 
         <div class="section">
             <div class="section-title">PROFESSIONAL SUMMARY</div>
             <div class="content">
-                Results-driven <strong>Site Reliability Engineer</strong> with 4.3+ years of experience building and maintaining highly available, scalable, and reliable infrastructure. Expert in <strong>monitoring, incident response, automation, and performance optimization</strong>. Proven track record in reducing system downtime by X%, improving deployment reliability, and implementing <strong>SRE best practices</strong> including SLO/SLI frameworks, capacity planning, and chaos engineering. Proficient in <strong>Kubernetes, Prometheus, Grafana, Python</strong>, and cloud platforms (<strong>AWS</strong>). Passionate about building resilient systems and fostering a culture of reliability.
+                Results-driven <strong>Site Reliability Engineer</strong> with 4.1+ years of experience building and maintaining highly available, scalable, and reliable infrastructure. Expert in <strong>monitoring, incident response, automation, and performance optimization</strong>. Proven track record in reducing system downtime, improving deployment reliability, and implementing <strong>SRE best practices</strong> including SLO/SLI frameworks, capacity planning, and chaos engineering. Proficient in <strong>Kubernetes, Prometheus, Grafana, Python</strong>, and cloud platforms (<strong>AWS</strong>). Passionate about building resilient systems and fostering a culture of reliability.
             </div>
         </div>
 
@@ -301,7 +300,7 @@
                 <span class="job-title">Site Reliability Engineer</span>
                 <span class="job-location">Bangalore, KA</span>
             </div>
-            <div class="job-company">AI Tech solutions LTD | May 2025 — Oct 2025</div>
+            <div class="job-company">AI Tech Solutions LTD | May 2025 — Oct 2025</div>
             <ul class="bullet-list">
                 <li><strong>Developed and maintained CI/CD pipelines</strong> in Jenkins by integrating build, test, SonarQube scanning, Docker image creation, and Kubernetes deployment stages with webhook-based automation for seamless delivery.</li>
                 <li><strong>Containerized applications using Docker</strong> to ensure consistent, portable, and reliable deployments across development, staging, and production environments.</li>
@@ -323,7 +322,7 @@
                 <span class="job-title">Cloud Support and Application Support Engineer </span>
                 <span class="job-location">Bangalore, KA</span>
             </div>
-            <div class="job-company">SANVAN Software | Month Year — Month Year</div>
+            <div class="job-company">SANVAN Software | Oct 2021 — April 2025</div>
             <ul class="bullet-list">
                 <li><strong>Created automated deployment pipelines</strong> using GitLab CI and ArgoCD, enabling 50+ daily deployments with zero-downtime releases and automated rollback capabilities.</li>
                 <li><strong>Assisted in designing and deploying AWS cloud infrastructure</strong> including EC2, S3, IAM, and VPC components to build secure and scalable cloud environments.</li>
