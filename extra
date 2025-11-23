@@ -232,7 +232,7 @@
         <div class="header">
             <h1>Abinash Dash</h1>
             <div class="contact">
-                Location: Bangalore, KA | Phone: +91 98779 49761 | Email: your.email@example.com<br>
+                Location: Bangalore, KA | Phone: +91 98779 49761 | Email: d.abinash0707@gmail.com<br>
             </div>
         </div>
 
@@ -248,7 +248,7 @@
             <div class="skills-section">
                 <div class="skill-category">
                     <span class="skill-label">Cloud Platforms:</span>
-                    <span class="skill-items">AWS (EC2, S3, RDS, Lambda, CloudWatch, VPC, IAM etc.)</span>
+                    <span class="skill-items">AWS (EC2, S3, RDS, CloudWatch, VPC, IAM etc.)</span>
                 </div>
                 <div class="skill-category">
                     <span class="skill-label">Container & Orchestration:</span>
@@ -316,24 +316,24 @@
                 <li><strong>Collaborated with development teams</strong> to refactor applications, modernize deployment workflows, streamline release cycles, and harmonize legacy codebases.</li>
                 <li><strong>Conducted root-cause analysis </strong> of recurring production issues and implemented preventive actions to minimize downtime and improve overall reliability.</li>
                 <li><strong>Documented deployment standards and operational workflows</strong> to support smooth onboarding, operational continuity, and consistent implementation of best practices across teams.</li>
-            </ul>
-
-            <div class="job-header">
-                <span class="job-title">Cloud Support and Application Support Engineer </span>
-                <span class="job-location">Bangalore, KA</span>
-            </div>
-            <div class="job-company">SANVAN Software | Oct 2021 — April 2025</div>
-            <ul class="bullet-list">
-                <li><strong>Created automated deployment pipelines</strong> using GitLab CI and ArgoCD, enabling 50+ daily deployments with zero-downtime releases and automated rollback capabilities.</li>
-                <li><strong>Assisted in designing and deploying AWS cloud infrastructure</strong> including EC2, S3, IAM, and VPC components to build secure and scalable cloud environments.</li>
-                <li><strong>Configured and monitored AWS workloads</strong> using CloudWatch, CloudTrail, and other observability tools to identify performance bottlenecks, optimize resource usage, and respond to security alerts.</li>
-                <li><strong>Containerized applications with Docker</strong> to ensure consistent builds and deployments across development, staging, and production environments.</li>
+                <li><strong>Created automated deployment pipelines</strong> using GitHub CI and ArgoCD, enabling 50+ daily deployments with zero-downtime releases and automated rollback capabilities.</li>
                 <li><strong>Deployed and managed applications on Kubernetes clusters</strong> ensuring scalability, high availability, and seamless rolling updates.</li>
                 <li><strong>Integrated container registries</strong> such as Docker Hub with Jenkins pipelines to streamline image storage and version-controlled deployments.</li>
                 <li><strong>Collaborated with development teams</strong> to implement DevOps best practices, drastically reducing manual steps and improving release velocity.</li>
                 <li><strong>Built and maintained bare-metal Kubernetes clusters</strong> using kubeadm, configuring container runtimes, network overlays (Calico), Ingress controllers, and multi-node cluster HA setups.</li>
                 <li><strong>Implemented Infrastructure as Code</strong> using Terraform and Ansible to automate provisioning, configuration, and lifecycle management of servers, cloud resources, and Kubernetes components.</li>
-                <li><strong>Configured and maintained CI/CD pipelines</strong> in Jenkins and GitLab CI, integrating automated testing, security scanning (Trivy/SonarQube), and multi-environment deployments.</li>
+                <li><strong>Configured and maintained CI/CD pipelines</strong> in Jenkins integrating automated testing, security scanning (Trivy/SonarQube), and multi-environment deployments.</li>
+            </ul>
+
+            <div class="job-header">
+                <span class="job-title">Cloud and Application Support Engineer </span>
+                <span class="job-location">Bangalore, KA</span>
+            </div>
+            <div class="job-company">SANVAN Software | Oct 2021 — April 2025</div>
+            <ul class="bullet-list">
+                <li><strong>Assisted in designing and deploying AWS cloud infrastructure</strong> including EC2, S3, IAM, and VPC components to build secure and scalable cloud environments.</li>
+                <li><strong>Configured and monitored AWS workloads</strong> using CloudWatch, CloudTrail, and other observability tools to identify performance bottlenecks, optimize resource usage, and respond to security alerts.</li>
+                <li><strong>Containerized applications with Docker</strong> to ensure consistent builds and deployments across development, staging, and production environments.</li>
                 <li><strong>Set up centralized monitoring and alerting</strong> using Prometheus, Grafana, Alertmanager, and Loki to provide deep observability into application and cluster health.</li>
                 <li><strong>Optimized Kubernetes workloads</strong> by tuning resource requests/limits, configuring Horizontal Pod Autoscalers, and implementing efficient node-level resource planning.</li>
                 <li><strong>Managed NGINX/Apache reverse proxies</strong> with SSL/TLS certificates, enabling secure HTTPS communication and certificate automation using Certbot.</li>
@@ -341,6 +341,28 @@
                 <li><strong>Implemented DevSecOps practices</strong> by integrating vulnerability scans, secret scanning, and compliance checks into CI/CD workflows.</li>
                 <li><strong>Collaborated across cross-functional teams</strong> to modernize legacy applications, standardize deployment workflows, and migrate workloads from VMs and PM2 to containerized Kubernetes-based architectures.</li>
                 <li><strong>Documented SOPs, deployment procedures, and cluster maintenance guides</strong> to ensure smooth onboarding and operational continuity.</li>
+                <li><strong>Supported multiple trading applications</strong> – front to back, including batch processing.</li>
+                <li><strong>Managed stakeholders</strong> across FO Trading, Middle Office, Product Control, Development, and Infrastructure teams.</li>
+                <li><strong>Worked directly with traders and middle office users</strong> to resolve booking, pricing, and risk-related issues.</li>
+                <li><strong>Performed in-depth technical BAU application support</strong> ensuring stability and reliability.</li>
+                <li><strong>Acted as Level 2 support</strong> assisting and guiding Level 1 teams.</li>
+                <li><strong>Prioritized and delivered work</strong> effectively in a diverse and fast-paced environment.</li>
+                <li><strong>Configured and monitored production applications</strong> using ITRS GENEOS.</li>
+                <li><strong>Executed application releases and changes</strong> into PROD/DR environments.</li>
+                <li><strong>Handled incidents, problems, and changes</strong> of varying complexity.</li>
+                <li><strong>Suggested and implemented automation and efficiency improvements</strong> to enhance operations.</li>
+                <li><strong>Monitored and optimized batch processing</strong> ensuring SLA compliance.</li>
+                <li><strong>Managed escalations</strong> to development teams and business stakeholders.</li>
+                <li><strong>Tracked incidents and provided regular updates</strong> to key stakeholders.</li>
+                <li><strong>Coordinated recurring issues</strong> ensuring long-term, permanent resolutions.</li>
+                <li><strong>Drove Engineering and Development teams</strong> for bug fixes and platform stability.</li>
+                <li><strong>Collaborated with development teams</strong> to implement enhancements that improve supportability.</li>
+                <li><strong>Participated in bank-wide DR tests</strong> and FM PSS monthly DR failovers.</li>
+                <li><strong>Worked with UNIX, Database, and Network Infrastructure teams</strong> on stability and improvement programs.</li>
+                <li><strong>Managed risks and audit points</strong> through to closure.</li>
+                <li><strong>Performed environment risk reviews</strong> and raised new risks when required.</li>
+                <li><strong>Maintained comprehensive application documentation</strong> for operational readiness.</li>
+                <li><strong>Handled infrastructure maintenance activities</strong> during weekends.</li>
             </ul>
 
 
